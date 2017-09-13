@@ -17,7 +17,7 @@
     "test": "grunt"
   },
   "dependencies": {
-    "irc": "github:Throne3d/node-irc",
+    "irc": "github:bhudgens/node-irc",
     "log": "1.4.0"
   },
   "devDependencies": {
